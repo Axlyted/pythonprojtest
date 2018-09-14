@@ -1,1 +1,2 @@
-print("hey man")
+print('hey man')
+print('hi')
